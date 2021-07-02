@@ -2,7 +2,11 @@
 
 /* 
 
+<<<<<<< HEAD
 This is a Multi-line comment..
+=======
+This is a Multi-line comment
+>>>>>>> take-home
 
 */
 
